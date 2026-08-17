@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey%2C+I'm+AnaCode;Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Hey%2C+I'm+AnaCode;Data+Scientist+%7C+ML+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
 
 <!-- ANIMATED WAVE DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
